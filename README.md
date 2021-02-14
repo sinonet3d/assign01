@@ -7,5 +7,6 @@ Options
 ## git commands
 - git status, to check file changes
 - git pull origin main, get latest from github
+- git add .
 - git commit -anm 'your commit message'
 - git push origin main, push latest update to github
