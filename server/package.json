@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "assignment 1 server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+  	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinonet3d/assign01.git"
+  },
+  "author": "Wen Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinonet3d/assign01/issues"
+  },
+  "homepage": "https://github.com/sinonet3d/assign01#readme"
+}
